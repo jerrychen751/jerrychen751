@@ -4,5 +4,6 @@ CS + Math student studying at Georgia Tech. I enjoy working with full-stack appl
 
 Currently: interning at AllMed AI (healthcare voice agents) and working with satellite data at GT's Oceanography Lab.
 
-[LinkedIn](https://www.linkedin.com/in/jerrychen751/)
+LinkedIn: [here](https://www.linkedin.com/in/jerrychen751/)
+
 Email: jchen3421@gatech.edu
