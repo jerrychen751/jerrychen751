@@ -1,10 +1,6 @@
 ## Hi, I'm Jerry
-CS + Math student at Georgia Tech. I like building full-stack apps, tools that make everyday stuff easier, and using software to push the sciences and consumer products forward. I've also done hands-on work with ETL data pipelines, databases / data modelling, and ML.
+CS + Math student at Georgia Tech. I like building full-stack apps, tools that make everyday stuff easier, and using software to push the sciences and consumer products forward. I've also done hands-on work with ETL data pipelines, databases / data modeling, and ML.
 
-**🔭 Currently**
-- Data Science intern @ **Texas Instruments**
-- Building AI voice agents @ **AllMed AI**
-- Research @ **GT Oceanography Lab**
 
 ### 🛠️ Tools I work with
 
