@@ -1,6 +1,6 @@
 ## Hi, I'm Jerry
 
-![Profile views](https://komarev.com/ghpvc/?username=jerrychen751&label=Profile+views&color=0A66C2&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=jerrychen751&label=Profile+views&color=0A66C2&style=flat-square) [![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-181717?style=flat-square&logo=githubpages&logoColor=white)](https://jerrychen751.github.io/)
 
 I'm a Computer Science & Mathematics major at Georgia Tech, with concentrations in AI and Systems Architecture. In the past, I built full-stack applications, AI voice agents, RAG / Text-to-SQL systems, as well as data infrastructure and pipelines. My past experiences spanned a diverse set of fields, including manufacturing, healthcare, oceanography, and economic markets.
 
@@ -55,6 +55,5 @@ I strongly believe that the future holds a lot of cool things, and those things 
 
 ### Contact
 
-[![Website](https://flat.badgen.net/badge/icon/Website/181717?icon=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fbootstrap-icons%401.11.3%2Ficons%2Fglobe.svg&label=&labelColor=FFFFFF)](https://jerrychen751.github.io/)
 [![LinkedIn](https://flat.badgen.net/badge/icon/LinkedIn/0A66C2?icon=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fbootstrap-icons%401.11.3%2Ficons%2Flinkedin.svg&label=&labelColor=FFFFFF)](https://www.linkedin.com/in/jerrychen751)
 [![Email](https://flat.badgen.net/badge/icon/Email/003057?icon=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fbootstrap-icons%401.11.3%2Ficons%2Fenvelope.svg&label=&labelColor=FFFFFF)](mailto:jchen3421@gatech.edu)
