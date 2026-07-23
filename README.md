@@ -1,8 +1,8 @@
 ## Hi, I'm Jerry
 
-I study Computer Science and Mathematics at Georgia Tech. My concentrations are Artificial Intelligence and Systems & Architecture.
+I study Computer Science and Mathematics at Georgia Tech, with concentrations in Artificial Intelligence and Systems & Architecture.
 
-I build full-stack software, AI agents, computer vision models, and data systems. I apply these systems to manufacturing, healthcare, and oceanography.
+I have built full-stack applications, AI agents, computer vision models, and data systems. I have applied this work across manufacturing, healthcare, and oceanography.
 
 **Major:** Computer Science and Mathematics
 
@@ -21,5 +21,5 @@ I build full-stack software, AI agents, computer vision models, and data systems
 ### 📫 Reach me
 
 - Website: [jerrychen751.github.io](https://jerrychen751.github.io/)
-- LinkedIn: [jerrychen751](https://www.linkedin.com/in/jerrychen751/)
+- LinkedIn: [www.linkedin.com/in/jerrychen751](https://www.linkedin.com/in/jerrychen751)
 - Email: jchen3421@gatech.edu
